@@ -6,4 +6,4 @@
 - 💬 Ask me no qustions and I'll tell you no lie
 - 📫 You can reach me: Telegramm, Vk
 - 😄 Pronouns: she, her, that one
-- ⚡ Fun fact: I asked GPT3.5 to make this readme xd
+- ⚡ Fun fact: I love cats
