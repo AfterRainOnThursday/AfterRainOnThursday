@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on getting help
 - 🤔 I’m looking for help with on my physics exam
 - 💬 Ask me no qustions and I'll tell you no lie
-- 📫 You can reach me: Telegramm, Vk
+- 📫 You can reach me: Telegram, Vk
 - 😄 Pronouns: she, her, that one
 - ⚡ Fun fact: I love cats
 <div id="header" align="center">
