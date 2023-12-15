@@ -7,3 +7,6 @@
 - 📫 You can reach me: Telegramm, Vk
 - 😄 Pronouns: she, her, that one
 - ⚡ Fun fact: I love cats
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/hXDrTueJWAscK3xWQ2/200.webp?cid=ecf05e47r41hp6oxl0pyrad5m8vssyogbs1h4lsrjb9jykux&ep=v1_gifs_search&rid=200.webp&ct=g" width="300"/>
+</div>
